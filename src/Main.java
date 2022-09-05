@@ -54,7 +54,7 @@ public class Main {
      }
 
      public static void homeWork4() {
-          System.out.println("Задача 4");
+          System.out.println("Задача №4");
           var deliveryDistance = 19;
           var deliveryDays = 0;
           if (deliveryDistance <= 20) {
